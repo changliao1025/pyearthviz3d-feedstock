@@ -26,6 +26,8 @@ requirements:
     - numpy
     - geovista
     - pyvista
+    - imageio
+    - imageio_ffmpeg
     - gdal >=3.0.0
     - pyearth >=0.2.3
 
